@@ -131,22 +131,3 @@ public class TechJobs {
         }
     }
 }
-
-//        if (someJobs.size() == 0) {
-//            System.out.print("No Results");
-//        } else {
-//            for (int j = 0; j < someJobs.size(); j++) {
-////                log.getLog().trim();
-//                System.out.println();
-//                System.out.println("*****");
-//                for (Map.Entry<String, String> entry : someJobs.get(j).entrySet()) {
-//                    String key = entry.getKey();
-//                    Object value = entry.getValue();
-//
-//                    System.out.println(key + ": " + value);
-//                }
-//                System.out.println("*****");
-//            }
-//        }
-//    }
-//}
